@@ -6,5 +6,6 @@ export const environment = {
     databaseURL: "https://angularuserauth-35a82.firebaseio.com",
     projectId: "angularuserauth-35a82",
     storageBucket: "angularuserauth-35a82.appspot.com",
-    messagingSenderId: "442859279710"
+    messagingSenderId: "442859279710",
+  },
 };
